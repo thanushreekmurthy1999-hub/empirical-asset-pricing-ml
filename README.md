@@ -279,7 +279,7 @@ empirical-asset-pricing-ml/
 
 ## Acknowledgments
 
-This project was developed as part of the MS Business Analytics & Information Management program at Purdue University, under the guidance of [course instructor name optional]. Co-authored with [Agniva Mondal](https://github.com/agniva1534), equal contribution.
+This project was developed as part of the MS Business Analytics & Information Management program at Purdue University, under the guidance of Prof. Zing Co-authored with [Agniva Mondal](https://github.com/agniva1534), equal contribution.
 
 ---
 
